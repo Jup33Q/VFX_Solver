@@ -1,6 +1,7 @@
 # VFX_Solver
 This is a LKG portrait example using unity VFX graph hybrid with TouchDesigner Flex solver
-
+## Sample video 
+https://www.bilibili.com/video/BV13vaSzsEyZ/
 ## release versions
 there are two branches for this project : 
 ### App installer
